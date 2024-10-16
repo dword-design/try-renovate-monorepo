@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "execa": "6.1.0"
+    "execa": "9.4.1"
   }
 }
